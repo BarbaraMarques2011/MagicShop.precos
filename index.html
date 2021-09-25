@@ -8,7 +8,7 @@
     
    
     <body>
-    	<a href="http://devs-1.github.io/html/barbara.santos" title="Home">
+    	<a href="https://barbaramarques2011.github.io/MagicShop/" title="Home">
 	<img alt="Home" src="https://i.pinimg.com/originals/91/2d/4c/912d4c22fad10a4b1670f64fd7382666.jpg" width="100" height="100" />
 </a> <br> <br>
        
