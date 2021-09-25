@@ -1,6 +1,6 @@
 <html>
 	<head> 
-    		<title> Café Magic Shop! - Seul - Coréia do Sul </title>
+    		<title> Café Magic Shop! | Seul | Coréia do Sul | Preços </title>
             <style> 
             	body{background-color:#cc99ff;}
             </style>
@@ -8,16 +8,16 @@
     
    
     <body>
-    	<a href="https://barbaramarques2011.github.io/MagicShop/" title="Home">
-	<img alt="Home" src="https://i.pinimg.com/originals/91/2d/4c/912d4c22fad10a4b1670f64fd7382666.jpg" width="100" height="100" />
-</a> <br> <br>
+    	<a href="http://devs-1.github.io/html/barbara.santos" title="Voltar para a página inicial">
+	<img alt="Home" src="https://pbs.twimg.com/media/FAI1X6yUUA0Hzvx?format=png&name=medium" height="100" />
+</a> <br> 
        
 
-<iframe src="https://open.spotify.com/embed/track/5IYnriBBJz1iz1ki3bJnWo" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5IYnriBBJz1iz1ki3bJnWo" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> <hr>
         
-        
-        
-        
+
+      <br> <h1> <center> Cardápio </center> </h1> 
+                
        <h2> <tt> Bebidas </tt> </h2>
        
        <table border="1"; bgcolor="Thistle"; width=500 height=150>
@@ -37,7 +37,7 @@
               <tr align="center">
               	<td>Iced Americano</td>
                 <td>R$ 10,00</td>
-                 <td width=200 height=150><a href="https://www.youtube.com/watch?v=WMweEpGlu_U" title="Iced Americano">
+                 <td width=200 height=150><a href="https://www.youtube.com/watch?v=xEeFrLSkMm8" title="Iced Americano">
 	<img alt="Iced Americano" src="https://live.staticflickr.com/5200/14310872584_ab8227ee13_z.jpg" width="200" height="150" />
 </a>
               </tr>
@@ -45,7 +45,7 @@
               <tr align="center">
               	<td>Capuccino</td>
                 <td>R$ 5,00</td>
-                 <td width=200 height=150><a href="https://www.youtube.com/watch?v=bZYPI4mYwhw" title="Capuccino">
+                 <td width=200 height=150><a href="https://youtu.be/hmE9f-TEutc" title="Capuccino">
 	<img alt="Capuccino" src="https://d.wattpad.com/story_parts/669685947/images/15728b8f600dbaa6227602840341.jpg" width="200" height="150" />
 </a>
               </tr>
@@ -148,6 +148,9 @@
 </a>
               </tr>
           </table>  <br>           <hr>
+
+<em> <center> <tt> <strong>Borahae<sup>7</sup>!</strong> <br> Big Hit Music<sup>©</sup> </tt></center></em>
+</body>
           
             
              
